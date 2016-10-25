@@ -11,6 +11,7 @@
     tools:context="com.pp99.tarea1.MainActivity"
     android:background="@drawable/_2fc53db72cf219e20fd61969cbf4461c_marcianito_miprimer_proyecto_android">
 
+
     <TextView
         android:text="@string/bienvenido"
         android:layout_width="wrap_content"
@@ -30,7 +31,7 @@
         android:background="@android:color/transparent"
         android:elevation="0dp"
         android:textStyle="normal|bold"
-        android:textSize="14sp"
+        android:textSize="18sp"
         android:backgroundTint="@android:color/background_light"
         tools:targetApi="lollipop"
         android:layout_centerVertical="true"
